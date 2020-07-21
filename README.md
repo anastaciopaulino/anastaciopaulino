@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **anastaciopaulino/anastaciopaulino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Anastácio Paulino :man_technologist:
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jrmarcelo/)](https://www.linkedin.com/in/anast%C3%A1cio-cassiano-cp-006b02191/)
+
+### Hellooo! 👋 Welcome to my profile
+My name is Anastácio and ...:
+
+ - 😄 I really like to learn
+follow me 😄
