@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 ### Hellooo! 👋 Welcome to my profile
 My name is Anastácio and ...:
 
- - 😄 I really like to learn;
- - 💻🎮 I like to play on the computer;
+ - 📚 I really like to learn;
+ - 💻🎮 a player in his spare time
  - 🚌 I like to travel, despite not traveling much;
  
  ### always come back and follow me😉
